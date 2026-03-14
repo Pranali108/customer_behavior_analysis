@@ -51,7 +51,7 @@ This project answers questions such as:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Customer_bahevior_Dashboard.png)
+![Customer Behavior Dashboard](Customer_behavior_Dashboard.png)
 
 ## 📂 Dataset
 
