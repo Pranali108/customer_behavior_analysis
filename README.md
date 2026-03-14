@@ -51,7 +51,7 @@ This project answers questions such as:
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](Customer_bahevior_Dashboard.png)
+![Dashboard](Customer_bahevior_Dashboard.png)
 
 ## 📂 Dataset
 
@@ -200,7 +200,7 @@ customer-shopping-behavior-analysis
 
 ### Clone the Repository
 
-git clone https://github.com/pranali108/customer-shopping-analysis.git
+git clone https://github.com/pranali108/customer_behavior_analysis.git
 
 ### Install Required Libraries
 
